@@ -1,6 +1,7 @@
 I really enjoyed this talk by Björn Fahller but I really wished he had mentioned a couple things. This repo is the code that I will use in a YouTube video.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CVBlYvTenVo?si=c3Io0y8q_MuEXH1A&amp;start=558" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![image](https://github.com/codereport/moar_functional_fahller/assets/36027403/736803e3-6987-4634-a66e-9d90c3c550ad)
+)](https://www.youtube.com/embed/CVBlYvTenVo?si=c3Io0y8q_MuEXH1A&amp;start=558)
 
 |       |               Change                |             Godbolt             |
 | :---: | :---------------------------------: | :-----------------------------: |
