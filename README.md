@@ -6,7 +6,7 @@ I really enjoyed this talk by Björn Fahller but I really wished he had mentione
 | :---: | :---------------------------------: | :-----------------------------: |
 |   0   |              Original               | https://godbolt.org/z/navP7h7de |
 |   1   |         Original + Swizzle          | https://godbolt.org/z/5Yzafqne5 |
-|   2   | Formatting + `const` + `fmt::print` | https://godbolt.org/z/4Gjjq76jv |
+|   2   | Formatting + `const` + `fmt::print` | https://godbolt.org/z/a8e87q668 |
 |   3   |        `pairwise_transform`         | https://godbolt.org/z/GK1effY77 |
 |   4   |         C Combinator (`_c`)         | https://godbolt.org/z/EehTP56K4 |
 |   5   |               `_sub_`               | https://godbolt.org/z/s9EG4YE6M |

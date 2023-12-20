@@ -28,7 +28,8 @@ int main() {
 
     auto const sequence = std::array{1,3,8,2,3,8,1};
     auto const deltas   = sequence 
-                        | pairwise_transform(swizzle<1,0>(std::minus{}));
+                        | pairwise
+                        | transform(apply(swizzle<1,0>(std::minus{})));
 
     fmt::print("{}\n", deltas);
     
