@@ -53,8 +53,7 @@ using namespace std::views;
 int main() {
 
     auto const sequence = std::array{1,3,8,2,3,8,1};
-    auto const deltas   = sequence 
-                        | pairwise_transform(_c(_sub_));
+    auto const deltas   = sequence | pairwise_transform(_c(_sub_));
 
     fmt::print("{}\n", deltas);
     
